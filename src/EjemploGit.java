@@ -10,6 +10,7 @@ public class EjemploGit {
 		System.out.println(usuario);
 		
 		System.out.println("Paso 2");
+		System.out.println("Paso 3");
 	}
 
 }
